@@ -107,4 +107,28 @@ WatermarkRemover 是一款专业的图片水印去除工具，能够智能识别
 | 注册版 | 无任何限制 |
 
 
+---
+
+## 🏢 关于我们
+
+<p align="center">
+  <a href="http://www.net188.net">
+    <img src="http://www.net188.net/images/logo1.png" alt="Net188 Logo" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Net188 · 互联网技术服务</strong>
+</p>
+
+<p align="center">
+  专注于跨平台应用开发、AI Agent 集成与大模型应用落地。<br/>
+  提供从产品设计、开发实施到部署运维的全栈技术解决方案。
+</p>
+
+<p align="center">
+  🌐 <a href="http://www.net188.net"><strong>www.net188.net</strong></a>
+</p>
+
+---
 
